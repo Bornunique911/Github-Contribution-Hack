@@ -20,6 +20,6 @@
     "jsonfile": "^6.1.0",
     "moment": "^2.29.4",
     "random": "^2.2.0",
-    "simple-git": "^3.5.0"
+    "simple-git": "^3.15.0"
   }
 }
